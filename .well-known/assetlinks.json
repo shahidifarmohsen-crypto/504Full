@@ -1,12 +1,8 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.shahidifarmohsen.english504master",
-      "sha256_cert_fingerprints": [
-        "9F:85:AC:73:A2:8C:42:9B:97:62:5F:66:39:26:19:1E:64:41:DC:C8:72:6B:80:D2:84:49:D4:D2:21:C9:9E:82"
-      ]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.shahidifarmohsencrypto.e504master",
+    "sha256_cert_fingerprints": ["72:AB:F8:0B:6F:CB:66:AB:42:65:86:79:86:E3:32:00:E3:0C:8E:E4:E3:0C:09:04:E1:3E:82:AA:69:9A:44:7E"]
   }
-]
+}]
